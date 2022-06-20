@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LauThuKa | 拉屋蘇卡的家</title>
+    <link>https://LauThuKa.github.io/</link>
+    <description>Recent content on LauThuKa | 拉屋蘇卡的家</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 20 Jun 2022 14:40:00 +0800</lastBuildDate><atom:link href="https://LauThuKa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第二篇文章喔喔</title>
+      <link>https://LauThuKa.github.io/blog/test2/</link>
+      <pubDate>Mon, 20 Jun 2022 14:40:00 +0800</pubDate>
+      
+      <guid>https://LauThuKa.github.io/blog/test2/</guid>
+      <description>C#語法運用 console write(&amp;#34;hello world&amp;#34;); console write(&amp;#34;hello world&amp;#34;); console write(&amp;#34;hello world&amp;#34;); </description>
+    </item>
+    
+    <item>
+      <title>蘇卡第一次的 Markdown 語法</title>
+      <link>https://LauThuKa.github.io/blog/test/</link>
+      <pubDate>Mon, 20 Jun 2022 12:01:00 +0800</pubDate>
+      
+      <guid>https://LauThuKa.github.io/blog/test/</guid>
+      <description>Markdown 語法
+Hello World
+一級標題 二級標題 三級標題 四級標題 五級標題 六級標題 我是粗體，我是斜體</description>
+    </item>
+    
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://LauThuKa.github.io/blog/post-13-copy/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://LauThuKa.github.io/blog/post-13-copy/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://LauThuKa.github.io/blog/post-13/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://LauThuKa.github.io/blog/post-13/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+  </channel>
+</rss>
