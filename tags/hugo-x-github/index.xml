@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo x GitHub on LauThuKa | 拉烏蘇卡的家</title>
+    <link>https://LauThuKa.github.io/tags/hugo-x-github/</link>
+    <description>Recent content in Hugo x GitHub on LauThuKa | 拉烏蘇卡的家</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 22 Jun 2022 15:16:00 +0800</lastBuildDate><atom:link href="https://LauThuKa.github.io/tags/hugo-x-github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo x GitHub創建個人網站</title>
+      <link>https://LauThuKa.github.io/blog/hugo_github/</link>
+      <pubDate>Wed, 22 Jun 2022 15:16:00 +0800</pubDate>
+      
+      <guid>https://LauThuKa.github.io/blog/hugo_github/</guid>
+      <description>C#語法運用 console write(&amp;#34;hello world&amp;#34;); console write(&amp;#34;hello world&amp;#34;); console write(&amp;#34;hello world&amp;#34;); </description>
+    </item>
+    
+  </channel>
+</rss>
