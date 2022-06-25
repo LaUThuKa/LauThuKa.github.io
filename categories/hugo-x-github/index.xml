@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo x Github on LauThuKa | 拉烏蘇卡的家</title>
+    <title>Hugo x Github on LauThuKa | 拉烏蘇卡的程式空間</title>
     <link>https://LauThuKa.github.io/categories/hugo-x-github/</link>
-    <description>Recent content in Hugo x Github on LauThuKa | 拉烏蘇卡的家</description>
+    <description>Recent content in Hugo x Github on LauThuKa | 拉烏蘇卡的程式空間</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Wed, 22 Jun 2022 15:16:00 +0800</lastBuildDate><atom:link href="https://LauThuKa.github.io/categories/hugo-x-github/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <pubDate>Wed, 22 Jun 2022 15:16:00 +0800</pubDate>
       
       <guid>https://LauThuKa.github.io/blog/hugo_github/</guid>
-      <description>C#語法運用 console write(&amp;#34;hello world&amp;#34;); console write(&amp;#34;hello world&amp;#34;); console write(&amp;#34;hello world&amp;#34;); </description>
+      <description>Hugo 搭配 GitHube上傳個人網站 本網站利用Hugo將程式轉成html後，上傳到GitHub上架設自己的個人網站。 網頁模板參考: Liva Hugo [Demo 網站]: https://demo.gethugothemes.com/liva [下載連結]: https://github.</description>
     </item>
     
   </channel>

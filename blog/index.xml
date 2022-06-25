@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on LauThuKa | 拉烏蘇卡的家</title>
+    <title>Blogs on LauThuKa | 拉烏蘇卡的程式空間</title>
     <link>https://LauThuKa.github.io/blog/</link>
-    <description>Recent content in Blogs on LauThuKa | 拉烏蘇卡的家</description>
+    <description>Recent content in Blogs on LauThuKa | 拉烏蘇卡的程式空間</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Thu, 23 Jun 2022 15:35:00 +0800</lastBuildDate><atom:link href="https://LauThuKa.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <pubDate>Thu, 23 Jun 2022 15:35:00 +0800</pubDate>
       
       <guid>https://LauThuKa.github.io/blog/axie/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <description>何謂Axie? Axie Infinity是基於ETH(以太坊)區塊鏈上的一款 NFT(非同質化代幣non-fungible token)遊戲。 同時建立起P2E(Play to Earn)，玩遊戲賺錢的機制。 遊戲中賺取的虛擬貨幣(SLP)可在市場上交易。 並創造出屬於自己的經濟體系，發展出自己的元宇宙。 在這體系中，玩家們發展出一套經理、學員模式。 雇用玩家遊戲賺取資金並分潤，在這兩年的疫情間幫助了許多的菲律賓人。 以下影片為在恆逸製作的專題並在專題報告上展示的內容: </description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Wed, 22 Jun 2022 15:16:00 +0800</pubDate>
       
       <guid>https://LauThuKa.github.io/blog/hugo_github/</guid>
-      <description>C#語法運用 console write(&amp;#34;hello world&amp;#34;); console write(&amp;#34;hello world&amp;#34;); console write(&amp;#34;hello world&amp;#34;); </description>
+      <description>Hugo 搭配 GitHube上傳個人網站 本網站利用Hugo將程式轉成html後，上傳到GitHub上架設自己的個人網站。 網頁模板參考: Liva Hugo [Demo 網站]: https://demo.gethugothemes.com/liva [下載連結]: https://github.</description>
     </item>
     
   </channel>
